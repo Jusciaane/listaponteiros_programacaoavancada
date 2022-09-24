@@ -1,4 +1,4 @@
-// Questão 11
+// Questão 12
 //"Em C, uma função é vista como uma referência (ou endereço) para uma área de memória onde se encontra seu código. 
 //Por isso, o identificador de uma função pode ser visto como um ponteiro. Funções podem ser acessadas usando ponteiros, 
 //de forma similar às variáveis" (MAZIERO, 2019)
